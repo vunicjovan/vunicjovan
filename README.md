@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=vunicjovan&style=for-the-badge&abbreviated=true) -->
-![Profile views](https://hit.yhype.me/github/profile?account_id=53936065)
+![Profile views](https://komarev.com/ghpvc/?username=vunicjovan&style=for-the-badge&abbreviated=true)
+![](https://hit.yhype.me/github/profile?account_id=53936065)
 
 <!--
 **vunicjovan/vunicjovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
