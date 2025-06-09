@@ -47,8 +47,8 @@ While _**Python**_ is my main playground, I also bring solid experience in:
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vunicjovan&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunicjovan&layout=compact&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vunicjovan&show_icons=true&theme=holi )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunicjovan&layout=compact&theme=holi )
 
 ---
 
