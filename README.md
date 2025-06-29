@@ -45,10 +45,12 @@ While _**Python**_ is my main playground, I also bring solid experience in:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vunicjovan&show_icons=true&theme=holi )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunicjovan&layout=compact&theme=holi )
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vunicjovan&hide_rank=true&show_icons=true&theme=transparent" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vunicjovan&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
 ---
 
