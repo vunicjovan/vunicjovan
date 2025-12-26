@@ -43,14 +43,6 @@ While _**Python**_ is my main playground, I also bring solid experience in:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
-
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vunicjovan&hide_rank=true&show_icons=true&theme=transparent" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vunicjovan&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-</a>
 
 ---
 
