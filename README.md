@@ -14,7 +14,11 @@
 <font size="5">My name is <b><code>Jovan Vunić</code></b></font><br />
 <font size="4"><i>I’m a <b>quick-learning</b>, <b>ever-evolving</b> software engineer.</i></font>
 
-<br /><br />
+<p>
+  <font size="4"><i>Engineering stuff since 2019.</i></font>
+</p>
+
+<br />
 
 ### [✨ Visit my personal site to find out more about me and see what I’m building](https://vunicjovan.github.io/)
 *Find out more about my journey, projects and expertise here.*
